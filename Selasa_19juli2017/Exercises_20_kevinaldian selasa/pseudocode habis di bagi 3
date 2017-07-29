@@ -1,0 +1,8 @@
+ //pseudocode  yang habis dibagi 3
+
+ READ and SAVE var a="1"
+ READ and SAVE while "a <20"
+ IF a divided 3 until 0
+ Show massage result out divided by 3
+ else show massage result
+ repeat;

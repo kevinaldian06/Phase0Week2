@@ -1,0 +1,18 @@
+> simpan variabel O
+> simpan variabel x
+> simpan variabel check untuk menang/kalah
+> simpan variabel O menang
+> simpan variabel X menang
+> simpan variabel permainan baru
+> simpan variabel untuk menghapus papan
+> membuat fungsi papan agar di klik bisa mengecek papan siapa yang menang 
+> membuat fungsi check player X jika baris pertama atau baris kedua atau baris ketiga
+  atau kolom pertama atau kolom kedua atau kolom ketiga atau diagonal pertama atau diagonel kedua tampilkan layar 
+> membuat fungsi check player O jika baris pertama atau baris kedua atau baris ketiga   
+  atau kolom pertama atau kolom kedua atau kolom ketiga atau diagonal pertama atau diagonal kedua tampilkan layar
+> membuat fungsi Draw jika baris pertama atau baris kedua atau baris ketiga
+  atau kolom pertama atau kolom kedua atau kolom ketiga atau diagonal pertama atau diagonal kedua tampilkan layar
+> mendeklarasi menang jika menang tampilkan layar "You Won"
+> mendeklarasi menang jika kalah tampilkan layar "Sorry, You Lose!"
+> membuat fungsi untuk menghapus papan yang sudah selesai menggunakan Restart
+
